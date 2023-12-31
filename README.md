@@ -1,2 +1,1 @@
-# CRUD_Upload
-Latihan CRUD dengan input foto
+# Latihan CRUD Upload Foto
